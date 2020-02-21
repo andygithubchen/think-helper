@@ -9,11 +9,11 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace think\helper;
+namespace thinkorm\helper;
 
 use ArrayAccess;
 use InvalidArgumentException;
-use think\Collection;
+use thinkorm\Collection;
 
 class Arr
 {

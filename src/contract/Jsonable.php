@@ -1,6 +1,6 @@
 <?php
 
-namespace think\contract;
+namespace thinkorm\contract;
 
 interface Jsonable
 {

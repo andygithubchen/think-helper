@@ -2,7 +2,7 @@
 
 基于PHP7.1+
 
-> 以下类库都在`\\think\\helper`命名空间下
+> 以下类库都在`\\thinkorm\\helper`命名空间下
 
 ## Str
 

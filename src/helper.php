@@ -9,8 +9,8 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-use think\Collection;
-use think\helper\Arr;
+use thinkorm\Collection;
+use thinkorm\helper\Arr;
 
 if (!function_exists('throw_if')) {
     /**
